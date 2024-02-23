@@ -14,10 +14,10 @@ body{
     align-items: center;
     border-bottom: solid 1px #222831;
     color: lightsalmon;
-    position: sticky;
-    top: 0px; 
+    position: sticky; 
+    top: 0px;  
     background-color: #404245;
-    z-index: 1;
+     z-index: 1; 
 }
 .navhead__s1{
     color: #e86100;
@@ -36,7 +36,7 @@ body{
 .navhead__s2 input{
     border: none;
     width: 100%;
-    background-color: transparent; 
+     background-color: transparent;  
 }
 .navhead__s2 input:focus{
     outline: none;
@@ -53,7 +53,7 @@ body{
    color: #cc5500 ;
 
 }
-
+  
 .mylearning{
     position: relative;
     cursor: pointer;
@@ -74,6 +74,7 @@ body{
 .mylearning:hover .mylearning__pop{
     display: block;
 }
+
 
 
 .button{
@@ -99,7 +100,7 @@ body{
 
 .poster{
     width: 100%;
-    position: relative; 
+     position: relative;  
 
 }
 
